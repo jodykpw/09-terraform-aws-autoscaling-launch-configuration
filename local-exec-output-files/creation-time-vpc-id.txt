@@ -1,0 +1,2 @@
+VPC created on Tue 7 Dec 2021 03:01:26 GMT and VPC ID: vpc-0f3cdc69a3f999dc6
+VPC created on Tue 7 Dec 2021 03:48:32 GMT and VPC ID: vpc-042ba1573f9568a95
