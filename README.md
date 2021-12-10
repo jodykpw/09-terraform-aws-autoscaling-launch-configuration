@@ -86,9 +86,9 @@ Observation:
 ## Access and Test
 ```t
 # App1 
-https://apps.domain.com
-https://apps.domain.com/app1/index.html
-https://apps.domain.com/app1/metadata.html
+https://asg-lc.domain.com
+https://asg-lc.domain.com/app1/index.html
+https://asg-lc.domain.com/app1/metadata.html
 ```
 
 ## Test Autoscaling using Postman
